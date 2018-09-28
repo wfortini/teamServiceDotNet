@@ -1,0 +1,14 @@
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.deps.json
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.runtimeconfig.json
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.runtimeconfig.dev.json
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.dll
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.csproj.CoreCompileInputs.cache
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.RazorAssemblyInfo.cache
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.RazorAssemblyInfo.cs
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.AssemblyInfoInputs.cache
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.AssemblyInfo.cs
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.RazorTargetAssemblyInfo.cache
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.pdb
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.dll
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.pdb
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.csprojAssemblyReference.cache
