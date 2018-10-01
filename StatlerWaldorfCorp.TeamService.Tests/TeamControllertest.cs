@@ -18,9 +18,9 @@ namespace StatlerWaldorfCorp.TeamService.Tests
             TeamsController controller = new TeamsController(new TestMemoryTeamRepository());
             var rawTeams = (IEnumerable<Team>)(controller.GetAllTeams() as ObjectResult).Value;
             List<Team> teams = new List<Team>(rawTeams);
-            Assert.Equal(teams.Count, 2);
-            Assert.Equal(teams[0].Name, "one");
-            Assert.Equal(teams[1].Name, "two");
+            Assert.Equal(2, teams.Count);
+            Assert.Equal( "one", teams[0].Name);
+            Assert.Equal( "two", teams[1].Name);
         }
 
         [Fact]
