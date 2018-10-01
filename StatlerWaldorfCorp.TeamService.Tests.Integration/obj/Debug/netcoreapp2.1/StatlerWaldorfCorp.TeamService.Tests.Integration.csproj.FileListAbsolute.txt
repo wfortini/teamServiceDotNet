@@ -1,0 +1,17 @@
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.deps.json
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.runtimeconfig.json
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.runtimeconfig.dev.json
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.dll
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.csprojAssemblyReference.cache
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.csproj.CoreCompileInputs.cache
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.AssemblyInfoInputs.cache
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.AssemblyInfo.cs
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.pdb
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.dll
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\bin\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.pdb
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.csproj.CopyComplete
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.dll
+C:\Users\wellington\source\repos\StatlerWaldorfCorp\StatlerWaldorfCorp.TeamService.Tests.Integration\obj\Debug\netcoreapp2.1\StatlerWaldorfCorp.TeamService.Tests.Integration.pdb
